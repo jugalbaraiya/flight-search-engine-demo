@@ -4,7 +4,7 @@
 
 ## How to clone and run this application
 1. Clone this repo using following command
-   > $ git clone https://github.com/jugal-designs/flight-search-engine.git 
+   > $ git clone https://github.com/jugalbaraiya/flight-search-engine-demo.git
 2. Install required libraries using npm
    > $ cd flight-search-engine
    
